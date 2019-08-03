@@ -29,10 +29,10 @@ body {
     background-color: #e67e22;
     border: 1px solid #d35400;
     color: #ffffff;
-    padding: 10px 24px;
+    padding: 10px 0px;
     cursor: pointer;
     float: left;
-    width: 32%;
+    width: 36%;
 }
 
 .btn-group::after {
@@ -51,12 +51,12 @@ body {
 
 .btn-group button.left {
     border-radius: 10px 0px 0px 10px;
-    width: 34%;
+    width: 32%;
 }
 
 .btn-group button.right {
     border-radius: 0px 10px 10px 0px;
-    width: 34%;
+    width: 32%;
 }
 
 p.first {
